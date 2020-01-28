@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\users\\jm4359\\source\\repos\\VMD.NETSplit\\VetMedData.NET.DAL\\VetMedData.NET.DAL.csproj": {}
+    "C:\\Users\\jm4359\\source\\repos\\VetMedData.NET\\VetMedData.NET.DAL\\VetMedData.NET.DAL.csproj": {}
   },
   "projects": {
-    "C:\\users\\jm4359\\source\\repos\\VMD.NETSplit\\VetMedData.NET.DAL\\VetMedData.NET.DAL.csproj": {
+    "C:\\Users\\jm4359\\source\\repos\\VetMedData.NET\\VetMedData.NET.DAL\\VetMedData.NET.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\users\\jm4359\\source\\repos\\VMD.NETSplit\\VetMedData.NET.DAL\\VetMedData.NET.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\jm4359\\source\\repos\\VetMedData.NET\\VetMedData.NET.DAL\\VetMedData.NET.DAL.csproj",
         "projectName": "VetMedData.NET.DAL",
-        "projectPath": "C:\\users\\jm4359\\source\\repos\\VMD.NETSplit\\VetMedData.NET.DAL\\VetMedData.NET.DAL.csproj",
+        "projectPath": "C:\\Users\\jm4359\\source\\repos\\VetMedData.NET\\VetMedData.NET.DAL\\VetMedData.NET.DAL.csproj",
         "packagesPath": "C:\\Users\\jm4359\\.nuget\\packages\\",
-        "outputPath": "C:\\users\\jm4359\\source\\repos\\VMD.NETSplit\\VetMedData.NET.DAL\\obj\\",
+        "outputPath": "C:\\Users\\jm4359\\source\\repos\\VetMedData.NET\\VetMedData.NET.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -43,6 +43,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
