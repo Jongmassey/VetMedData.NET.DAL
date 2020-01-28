@@ -1,0 +1,8 @@
+C:\Users\jm4359\source\repos\VetMedData.NET\VetMedData.NET.DAL\bin\Debug\netstandard2.0\VetMedData.NET.DAL.deps.json
+C:\Users\jm4359\source\repos\VetMedData.NET\VetMedData.NET.DAL\bin\Debug\netstandard2.0\VetMedData.NET.DAL.dll
+C:\Users\jm4359\source\repos\VetMedData.NET\VetMedData.NET.DAL\bin\Debug\netstandard2.0\VetMedData.NET.DAL.pdb
+C:\Users\jm4359\source\repos\VetMedData.NET\VetMedData.NET.DAL\obj\Debug\netstandard2.0\VetMedData.NET.DAL.csprojAssemblyReference.cache
+C:\Users\jm4359\source\repos\VetMedData.NET\VetMedData.NET.DAL\obj\Debug\netstandard2.0\VetMedData.NET.DAL.AssemblyInfoInputs.cache
+C:\Users\jm4359\source\repos\VetMedData.NET\VetMedData.NET.DAL\obj\Debug\netstandard2.0\VetMedData.NET.DAL.AssemblyInfo.cs
+C:\Users\jm4359\source\repos\VetMedData.NET\VetMedData.NET.DAL\obj\Debug\netstandard2.0\VetMedData.NET.DAL.dll
+C:\Users\jm4359\source\repos\VetMedData.NET\VetMedData.NET.DAL\obj\Debug\netstandard2.0\VetMedData.NET.DAL.pdb
