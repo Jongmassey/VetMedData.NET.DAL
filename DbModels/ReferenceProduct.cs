@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace VetMedData.NET.DAL.DbModels
 {
-    public partial class ReferenceProduct
+    public partial class ReferenceProduct :DbTableBase
     {
         public ReferenceProduct()
         {
@@ -12,11 +12,6 @@ namespace VetMedData.NET.DAL.DbModels
             ReferenceProductTargetSpecies = new HashSet<ReferenceProductTargetSpecies>();
         }
 
-        public Guid Id { get; set; }
-        public DateTime Createdon { get; set; }
-        public DateTime Updatedon { get; set; }
-        public string Createdby { get; set; }
-        public string Updatedby { get; set; }
         public string Name { get; set; }
         public string Maholder { get; set; }
         public string Vmno { get; set; }

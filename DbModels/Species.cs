@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace VetMedData.NET.DAL.DbModels
 {
-    public partial class Species
+    public partial class Species :DbTableBase
     {
         public Species()
         {
@@ -12,11 +12,6 @@ namespace VetMedData.NET.DAL.DbModels
             SpeciesSynonymSynonymNavigation = new HashSet<SpeciesSynonym>();
         }
 
-        public Guid Id { get; set; }
-        public DateTime Createdon { get; set; }
-        public DateTime Updatedon { get; set; }
-        public string Createdby { get; set; }
-        public string Updatedby { get; set; }
         public string Name { get; set; }
 
         public virtual ICollection<ReferenceProductTargetSpecies> ReferenceProductTargetSpecies { get; set; }

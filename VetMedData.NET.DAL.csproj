@@ -18,4 +18,8 @@
     <ProjectReference Include="..\VetMedData.NET\VetMedData.NET.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="API\" />
+  </ItemGroup>
+
 </Project>
